@@ -1,0 +1,53 @@
+.footer {
+  /* background-color: rgb(32, 105, 189);
+  color: white; */
+  display: flex important;
+  bottom: 100%;
+  position: fixed;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  padding: auto;
+  margin: auto;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 300px;
+  margin: 20px auto;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.c-image {
+  width: 130px;
+  height: 90px;
+}
+
+.career {
+  color: rgb(32, 105, 189);
+}
+
+.style {
+  width: 250px;
+  height: 350px;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  
+}
+
+.cartItem {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
