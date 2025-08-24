@@ -62,7 +62,7 @@ Login page:
 ![Log in page](image.png)
 
 Register Page:
-![Registration page](image-1.png)["C:\Users\Likhitha S\OneDrive\Pictures\Saved Pictures\Screenshots\Screenshot 2025-08-24 195525.png"]
+![Registration page](image-1.png)
 
 Adding products to catlog page from admin user:
 ![Adding Products](image-2.png)
