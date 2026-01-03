@@ -59,14 +59,13 @@ State Management: Redux Toolkit (Store)
 Basic
 
 Login page:
-![Log in page](LoginPage.png)
 ![Login Page](public/images/LoginPage.png)
 
 Register Page:
-![Registration page](RegistrationPage.png)
+![Registration page](public/images/RegistrationPage.png)
 
 Adding products to catlog page from admin user:
-![Adding Products](AddProducts.png)
+![Adding Products](public/images/AddProducts.png)
 
 Mobile View:
-![Displaying Home Page](MobileView.png)
+![Displaying Home Page](public/images/MobileView.png)
