@@ -60,6 +60,7 @@ Basic
 
 Login page:
 ![Log in page](LoginPage.png)
+![Login Page](public/images/LoginPage.png)
 
 Register Page:
 ![Registration page](RegistrationPage.png)
