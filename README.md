@@ -56,7 +56,7 @@ State Management: Redux Toolkit (Store)
 
 
 # Images
-**Basic**
+**Basic Details:-**
 
 **Login page:**
 <img src="public/images/LoginPage.png" width="600"/>
