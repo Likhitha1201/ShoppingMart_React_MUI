@@ -56,16 +56,16 @@ State Management: Redux Toolkit (Store)
 
 
 # Images
-Basic
+**Basic**
 
-Login page:
+**Login page:**
 <img src="public/images/LoginPage.png" width="600"/>
 
-Register Page:
+**Register Page:**
 <img src="public/images/RegistrationPage.png" width="600"/>
 
-Adding products to catlog page from admin user:
+**Adding products to catlog page from admin user:**
 <img src="public/images/AddProducts.png" width="600"/>
 
-Mobile View:
+**Mobile View:**
 <img src="public/images/MobileView.png" width="300" height= "400"/>
