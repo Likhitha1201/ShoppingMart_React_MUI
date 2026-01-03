@@ -68,4 +68,4 @@ Adding products to catlog page from admin user:
 <img src="public/images/AddProducts.png" width="600"/>
 
 Mobile View:
-<img src="public/images/MobileView.png" width="350"/>
+<img src="public/images/MobileView.png" width="300" height: "400"/>
